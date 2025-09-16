@@ -1,0 +1,7 @@
+{
+  "name": "catalago",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
